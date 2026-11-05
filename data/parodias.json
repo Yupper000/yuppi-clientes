@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "mauri-story",
+    "titulo": "Mauri Story",
+    "estilo": "3d",
+    "fila": "Mauri en 3D",
+    "ranking": 1,
+    "card": "/parodias/mauri-story/card.webp",
+    "poster": "/parodias/mauri-story/poster.webp"
+  },
+  {
+    "slug": "interestrategia",
+    "titulo": "Interestrategia",
+    "estilo": "scifi",
+    "fila": "Ciencia ficción con Mauri",
+    "ranking": 2,
+    "card": "/parodias/interestrategia/card.webp",
+    "poster": "/parodias/interestrategia/poster.webp"
+  },
+  {
+    "slug": "rapido-y-facturado",
+    "titulo": "Rápido y Facturado",
+    "estilo": "accion",
+    "fila": "Acción con Mauri",
+    "ranking": 3,
+    "card": "/parodias/rapido-y-facturado/card.webp",
+    "poster": "/parodias/rapido-y-facturado/poster.webp"
+  },
+  {
+    "slug": "volver-al-funnel",
+    "titulo": "Volver al Funnel",
+    "estilo": "scifi",
+    "fila": "Ciencia ficción con Mauri",
+    "ranking": 4,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "ataque-al-algoritmo",
+    "titulo": "Ataque al Algoritmo",
+    "estilo": "animacion",
+    "fila": "Mauri animado",
+    "ranking": 5,
+    "card": "/parodias/ataque-al-algoritmo/card.webp",
+    "poster": "/parodias/ataque-al-algoritmo/poster.webp"
+  },
+  {
+    "slug": "la-matriz-de-precios",
+    "titulo": "La Matriz de Precios",
+    "estilo": "scifi",
+    "fila": "Ciencia ficción con Mauri",
+    "ranking": 6,
+    "card": "/parodias/la-matriz-de-precios/card.webp",
+    "poster": "/parodias/la-matriz-de-precios/poster.webp"
+  },
+  {
+    "slug": "john-brief",
+    "titulo": "John Brief",
+    "estilo": "accion",
+    "fila": "Acción con Mauri",
+    "ranking": 7,
+    "card": "/parodias/john-brief/card.webp",
+    "poster": "/parodias/john-brief/poster.webp"
+  },
+  {
+    "slug": "ratatuyuppi",
+    "titulo": "Ratatuyuppi",
+    "estilo": "3d",
+    "fila": "Mauri en 3D",
+    "ranking": 8,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "stranger-funnels",
+    "titulo": "Stranger Funnels",
+    "estilo": "scifi",
+    "fila": "Ciencia ficción con Mauri",
+    "ranking": 9,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "jurassic-pauta",
+    "titulo": "Jurassic Pauta",
+    "estilo": "accion",
+    "fila": "Acción con Mauri",
+    "ranking": 10,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "mauri-wars",
+    "titulo": "Mauri Wars: El Retorno del ROAS",
+    "estilo": "scifi",
+    "fila": "Ciencia ficción con Mauri",
+    "ranking": null,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "mision-cotizacion",
+    "titulo": "Misión: Cotización",
+    "estilo": "accion",
+    "fila": "Acción con Mauri",
+    "ranking": null,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "el-senor-de-los-leads",
+    "titulo": "El Señor de los Leads",
+    "estilo": "animacion",
+    "fila": "Mauri animado",
+    "ranking": null,
+    "card": null,
+    "poster": null
+  },
+  {
+    "slug": "mauri-ball-z",
+    "titulo": "Mauri Ball Z",
+    "estilo": "animacion",
+    "fila": "Mauri animado",
+    "ranking": null,
+    "card": null,
+    "poster": null
+  }
+]

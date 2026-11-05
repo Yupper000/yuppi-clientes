@@ -1,0 +1,34 @@
+{
+  "perfiles": [
+    {
+      "slug": "abimato",
+      "nombre": "Abimato",
+      "estado": "activo"
+    },
+    {
+      "slug": "dgl",
+      "nombre": "DGL",
+      "estado": "por_configurar"
+    },
+    {
+      "slug": "bakers-academy",
+      "nombre": "Bakers Academy",
+      "estado": "por_configurar"
+    },
+    {
+      "slug": "aura-pro",
+      "nombre": "Aura Pro",
+      "estado": "por_configurar"
+    },
+    {
+      "slug": "bodapp",
+      "nombre": "BodApp",
+      "estado": "por_configurar"
+    },
+    {
+      "slug": "mucho",
+      "nombre": "MUCHO",
+      "estado": "por_configurar"
+    }
+  ]
+}

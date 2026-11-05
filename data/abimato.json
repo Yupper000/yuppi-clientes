@@ -1,0 +1,716 @@
+{
+  "version": 1,
+  "cliente": {
+    "slug": "abimato",
+    "nombre": "Abimato",
+    "avatar": null,
+    "activo": true
+  },
+  "programas": [
+    {
+      "slug": "abimato-up",
+      "titulo": "Abimato.Up",
+      "tipo": "Programa",
+      "anio": 2026,
+      "sinopsis": "Programa de 12 sesiones de estrategia con Yuppi para dejar a Abimato con un playbook operativo propio: pilares, valores, narrativa y protocolo de venta, con la experiencia Abimato como principal activo de marca.",
+      "etiquetas": [
+        "Estrategia",
+        "Lujo",
+        "Ventas"
+      ],
+      "notion_url": "https://app.notion.com/p/32effabf5a2281a9a720e5508b19b202",
+      "hero_imagen": null,
+      "parcial_pct_default": 50,
+      "temporadas": [
+        {
+          "numero": 1,
+          "titulo": "Fase I · Autoridad",
+          "episodios": [
+            "s01",
+            "s02",
+            "s03",
+            "s04"
+          ],
+          "portada": "/recursos/portadas/temporada-1.webp",
+          "stills": [
+            "/recursos/portadas/stills/a39.webp",
+            "/recursos/portadas/stills/a42.webp",
+            "/recursos/portadas/stills/a63.webp",
+            "/recursos/portadas/stills/a87.webp"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Fase II · Ritual",
+          "episodios": [
+            "s05",
+            "s06",
+            "s07",
+            "s08"
+          ],
+          "portada": "/recursos/portadas/temporada-2.webp",
+          "stills": [
+            "/recursos/portadas/stills/b05.webp",
+            "/recursos/portadas/stills/b04.webp",
+            "/recursos/portadas/stills/b06.webp",
+            "/recursos/portadas/stills/a26.webp"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Fase III · Legado",
+          "episodios": [
+            "s09",
+            "s10",
+            "s11"
+          ],
+          "portada": "/recursos/portadas/temporada-3.webp",
+          "stills": [
+            "/recursos/portadas/stills/a60.webp",
+            "/recursos/portadas/stills/a54.webp",
+            "/recursos/portadas/stills/a78.webp",
+            "/recursos/portadas/stills/a40.webp"
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Fase IV · Ready to Play",
+          "episodios": [
+            "s12"
+          ],
+          "portada": "/recursos/portadas/temporada-4.webp",
+          "stills": [
+            "/recursos/portadas/stills/a56.webp",
+            "/recursos/portadas/stills/a58.webp",
+            "/recursos/portadas/stills/a43.webp",
+            "/recursos/portadas/stills/a94.webp"
+          ]
+        }
+      ],
+      "episodios": [
+        {
+          "slug": "s01",
+          "numero": 1,
+          "tipo": "regular",
+          "titulo": "Pilares de Marca y Lujo Auténtico",
+          "sinopsis": "Las categorías de lujo y dónde está Abimato hoy: lujo aspiracional, con meta de llegar a lujo atelier. Autoridad de marca y la tarea de definir qué Abimato no es.",
+          "fecha": "2026-01-28",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Marca",
+            "Lujo",
+            "Autoridad"
+          ],
+          "miniatura": "/recursos/portadas/ep-s01.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a22818684d5cb69c132e009",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1V4e0goCpKRBNBATK8fycdJxKs6Deifhn/view",
+            "compartible": true
+          },
+          "recursos": [
+            {
+              "tipo": "canva",
+              "titulo": "Presentación Sesiones 1-4",
+              "url": "https://www.canva.com/d/ZqMC-bhh87p3BlK"
+            },
+            {
+              "tipo": "pdf",
+              "titulo": "Clase online 1-4",
+              "url": "https://drive.google.com/file/d/1-dS1KdQEUCEATJN-DQJwYeY1ouBzvAeX/view"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #1",
+              "url": "https://app.notion.com/p/32fffabf5a22818684d5cb69c132e009",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 28 ene",
+              "url": "https://docs.google.com/document/d/16zvmO8A6XQBE9D_bIi-muyp0K0GAx5J2T7wt4ojfqgE/edit?usp=drivesdk",
+              "marca_tiempo": "00:33:19",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-01-28",
+          "badge_manual": null
+        },
+        {
+          "slug": "s02",
+          "numero": 2,
+          "tipo": "regular",
+          "titulo": "Selectividad y Acceso",
+          "sinopsis": "Meta, motivo y destino de la marca (\"clase silenciosa\"). Cómo proteger el acceso a Abimato con criterios de entrada, con simulaciones de venta.",
+          "fecha": "2026-02-04",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Marca",
+            "Acceso",
+            "Venta"
+          ],
+          "miniatura": "/recursos/portadas/ep-s02.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281f097c8c3f8ef447b84",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1TVx-0acD602gnsPLJg_FmTS369asXGBU/view",
+            "compartible": true
+          },
+          "recursos": [
+            {
+              "tipo": "canva",
+              "titulo": "Presentación Sesiones 1-4",
+              "url": "https://www.canva.com/d/ZqMC-bhh87p3BlK"
+            },
+            {
+              "tipo": "pdf",
+              "titulo": "Clase online 1-4",
+              "url": "https://drive.google.com/file/d/1-dS1KdQEUCEATJN-DQJwYeY1ouBzvAeX/view"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #2",
+              "url": "https://app.notion.com/p/32fffabf5a2281f097c8c3f8ef447b84",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 4 feb",
+              "url": "https://docs.google.com/document/d/1jSsUOOuwvt3Hk31xZaEGEknDDhEPNWNiyi0B5Nme89A/edit?usp=drivesdk",
+              "marca_tiempo": "00:16:50",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-02-04",
+          "badge_manual": null
+        },
+        {
+          "slug": "s03",
+          "numero": 3,
+          "tipo": "regular",
+          "titulo": "Cliente Ideal vs. Actual",
+          "sinopsis": "Tres tipos de cliente (operativo, estratégico e ícono), el mapa de canales por los que llegan las ventas y la presentación del nuevo branding.",
+          "fecha": "2026-02-11",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Cliente",
+            "Canales",
+            "Branding"
+          ],
+          "miniatura": "/recursos/portadas/ep-s03.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281849efae9a6d652b3b5",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1d2Cur8MrVGaWC0wzD6TSKbcSsh7SO0l4/view",
+            "compartible": null
+          },
+          "recursos": [
+            {
+              "tipo": "canva",
+              "titulo": "Presentación Sesiones 1-4",
+              "url": "https://www.canva.com/d/ZqMC-bhh87p3BlK"
+            },
+            {
+              "tipo": "pdf",
+              "titulo": "Clase online 1-4",
+              "url": "https://drive.google.com/file/d/1-dS1KdQEUCEATJN-DQJwYeY1ouBzvAeX/view"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #3",
+              "url": "https://app.notion.com/p/32fffabf5a2281849efae9a6d652b3b5",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 11 feb",
+              "url": "https://docs.google.com/document/d/12O-lY21RYMgNuUPXApIOqZDwchjMIUHsjpQ-Mpaiwk0/edit?usp=drivesdk",
+              "marca_tiempo": "01:21:55",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-02-11",
+          "badge_manual": null
+        },
+        {
+          "slug": "s04",
+          "numero": 4,
+          "tipo": "regular",
+          "titulo": "Propuesta de Valor",
+          "sinopsis": "Cliente ideal, tono de voz de la marca y el Big Domino como frase que resume la propuesta. Separar las piezas Archive de las fabricadas a medida en la estrategia de precios.",
+          "fecha": "2026-02-19",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Propuesta",
+            "Tono",
+            "Precios"
+          ],
+          "miniatura": "/recursos/portadas/ep-s04.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a228113a8aadbb09ced8bcd",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/157ch4hvMxiUmE49dNylBlNZwWfF1x-tK/view",
+            "compartible": null
+          },
+          "recursos": [
+            {
+              "tipo": "canva",
+              "titulo": "Presentación Sesiones 1-4",
+              "url": "https://www.canva.com/d/ZqMC-bhh87p3BlK"
+            },
+            {
+              "tipo": "pdf",
+              "titulo": "Clase online 1-4",
+              "url": "https://drive.google.com/file/d/1-dS1KdQEUCEATJN-DQJwYeY1ouBzvAeX/view"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #4",
+              "url": "https://app.notion.com/p/32fffabf5a228113a8aadbb09ced8bcd",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 19 feb",
+              "url": "https://docs.google.com/document/d/1k-3T0agZ8BTD-xrYI5VBZ8TQSFewAs6PZEL-aK0_zoA/edit?usp=drivesdk",
+              "marca_tiempo": "01:06:42",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-02-19",
+          "badge_manual": null
+        },
+        {
+          "slug": "s05",
+          "numero": 5,
+          "tipo": "regular",
+          "titulo": "Introducción a Potenciales",
+          "sinopsis": "Protocolo de seis pasos para el primer contacto. Acuerdos: no dar precios por Instagram, canalizar a WhatsApp y de ahí a una llamada.",
+          "fecha": "2026-02-25",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Prospectos",
+            "Protocolo",
+            "WhatsApp"
+          ],
+          "miniatura": "/recursos/portadas/ep-s05.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281258ef0c61f5d17f52a",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1p_H2N1uHBgtng9EcUtBirLOUQFr2DoQy/view",
+            "compartible": true
+          },
+          "recursos": [
+            {
+              "tipo": "canva",
+              "titulo": "Presentación Sesión #5+",
+              "url": "https://www.canva.com/d/hO12BGbZqvJStjl"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #5",
+              "url": "https://app.notion.com/p/32fffabf5a2281258ef0c61f5d17f52a",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 25 feb 20:00",
+              "url": "https://docs.google.com/document/d/1Pm4N5zIkb3S6QcGuG4uPFyxOCzSTGsCd99xWphs40wI/edit?usp=drivesdk",
+              "marca_tiempo": "00:30:02",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-02-25",
+          "badge_manual": null
+        },
+        {
+          "slug": "s06",
+          "numero": 6,
+          "tipo": "regular",
+          "titulo": "Ritual de Compra",
+          "sinopsis": "Diagnóstico en vivo del proceso de venta. Propuestas: preselección de unos 10 abrigos, tiempo de visita acotado, vestimenta formal y guantes, y colección curada de temporada.",
+          "fecha": "2026-03-05",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Experiencia",
+            "Proceso",
+            "Showroom"
+          ],
+          "miniatura": "/recursos/portadas/ep-s06.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a228126b128edefbc2775d9",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/13XCw2EDw5l6vlxCRLYPGckgeL-PADAE1/view",
+            "compartible": true
+          },
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #6",
+              "url": "https://app.notion.com/p/32fffabf5a228126b128edefbc2775d9",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 5 mar 15:02",
+              "url": "https://docs.google.com/document/d/10DXkcL6n2ox120p_YqcfEVXyEARjmdyO41gjqk7SkLY/edit?usp=drivesdk",
+              "marca_tiempo": "00:42:28",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-03-05",
+          "badge_manual": null
+        },
+        {
+          "slug": "s07",
+          "numero": 7,
+          "tipo": "regular",
+          "titulo": "Pricing con Autoridad",
+          "sinopsis": "La relación con el precio. Reglas: el precio se anuncia, no se justifica, y después del precio viene el silencio. Postura sin descuentos y manifiesto anti-descuento. Quedan por completar los scripts por situación.",
+          "fecha": "2026-04-02",
+          "fecha_texto": null,
+          "estado": "parcial",
+          "avance_pct": null,
+          "etiquetas": [
+            "Precio",
+            "Autoridad",
+            "Scripts"
+          ],
+          "miniatura": "/recursos/portadas/ep-s07.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281888fa5e918098d9c67",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1LUQxZfH74ySvMnkWbAm1D1hPkojcPQCC/view",
+            "compartible": true
+          },
+          "recursos": [
+            {
+              "tipo": "notion",
+              "titulo": "Guion de la sesión 7",
+              "url": "https://app.notion.com/p/32fffabf5a2281888fa5e918098d9c67"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · Sesión #7",
+              "url": "https://app.notion.com/p/32fffabf5a2281888fa5e918098d9c67",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 2 abr",
+              "url": "https://docs.google.com/document/d/1IT7FkOwWdSsKQERDHpl2_2eZj4-UKHqaVjtJwcvWo9k/edit?usp=drivesdk",
+              "marca_tiempo": "00:49:50",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-04-02",
+          "badge_manual": null
+        },
+        {
+          "slug": "s08",
+          "numero": 8,
+          "tipo": "regular",
+          "titulo": "Cierre de Venta Orgánica",
+          "sinopsis": "Por confirmar.",
+          "fecha": null,
+          "fecha_texto": "Por confirmar",
+          "estado": "proximamente",
+          "avance_pct": null,
+          "etiquetas": [],
+          "miniatura": "/recursos/portadas/ep-s08.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+          "grabacion": null,
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [],
+          "publicado_en": null,
+          "badge_manual": null
+        },
+        {
+          "slug": "s09",
+          "numero": 9,
+          "tipo": "regular",
+          "titulo": "Entrega y Packaging",
+          "sinopsis": "Por confirmar.",
+          "fecha": null,
+          "fecha_texto": "Por confirmar",
+          "estado": "proximamente",
+          "avance_pct": null,
+          "etiquetas": [],
+          "miniatura": "/recursos/portadas/ep-s09.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+          "grabacion": null,
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [],
+          "publicado_en": null,
+          "badge_manual": null
+        },
+        {
+          "slug": "s10",
+          "numero": 10,
+          "tipo": "regular",
+          "titulo": "Postventa y Legado",
+          "sinopsis": "Por confirmar.",
+          "fecha": null,
+          "fecha_texto": "Por confirmar",
+          "estado": "proximamente",
+          "avance_pct": null,
+          "etiquetas": [],
+          "miniatura": "/recursos/portadas/ep-s10.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+          "grabacion": null,
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [],
+          "publicado_en": null,
+          "badge_manual": null
+        },
+        {
+          "slug": "s11",
+          "numero": 11,
+          "tipo": "regular",
+          "titulo": "Referido Selectivo",
+          "sinopsis": "Por confirmar.",
+          "fecha": null,
+          "fecha_texto": "Por confirmar",
+          "estado": "proximamente",
+          "avance_pct": null,
+          "etiquetas": [],
+          "miniatura": "/recursos/portadas/ep-s11.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+          "grabacion": null,
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [],
+          "publicado_en": null,
+          "badge_manual": null
+        },
+        {
+          "slug": "s12",
+          "numero": 12,
+          "tipo": "regular",
+          "titulo": "Ready to Play",
+          "sinopsis": "Por confirmar.",
+          "fecha": null,
+          "fecha_texto": "Por confirmar",
+          "estado": "proximamente",
+          "avance_pct": null,
+          "etiquetas": [],
+          "miniatura": "/recursos/portadas/ep-s12.webp",
+          "notion_url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+          "grabacion": null,
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [],
+          "publicado_en": null,
+          "badge_manual": null
+        },
+        {
+          "slug": "especial-maquina-comercial",
+          "numero": null,
+          "tipo": "especial",
+          "titulo": "La Máquina Comercial",
+          "sinopsis": "Los cuatro retos del programa, las tres capas de protección contra el regateo y el flujo completo del prospecto: Instagram → WhatsApp → cita privada → precio → seguimiento. Es factible mostrar precios y vender en línea desde la web.",
+          "fecha": "2026-04-09",
+          "fecha_texto": null,
+          "estado": "parcial",
+          "avance_pct": null,
+          "etiquetas": [
+            "Sistema comercial",
+            "Regateo",
+            "CRM"
+          ],
+          "miniatura": "/recursos/portadas/ep-especial-maquina-comercial.webp",
+          "notion_url": "https://app.notion.com/p/33dffabf5a228154aa97c5695e466602",
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1v9v0J-afVNgYQkFBmZ3AoQR2LPbxMvRO/view",
+            "compartible": true
+          },
+          "recursos": [
+            {
+              "tipo": "notion",
+              "titulo": "Página de trabajo · La Máquina Comercial",
+              "url": "https://app.notion.com/p/33dffabf5a228154aa97c5695e466602"
+            }
+          ],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notion · La Máquina Comercial",
+              "url": "https://app.notion.com/p/33dffabf5a228154aa97c5695e466602",
+              "marca_tiempo": null,
+              "visibilidad": "cliente"
+            },
+            {
+              "etiqueta": "Notas Gemini 9 abr",
+              "url": "https://docs.google.com/document/d/1_SMUz_kUthQGxMCfhtohYayhqpNM8s2bTu0NKO0dGmc/edit?usp=drivesdk",
+              "marca_tiempo": "00:31:35",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-04-09",
+          "badge_manual": null
+        },
+        {
+          "slug": "extra-repaso-notion",
+          "numero": null,
+          "tipo": "extra",
+          "titulo": "Repaso en Notion",
+          "sinopsis": "Presentación de la página de Notion como base de conocimiento, con los resúmenes de las sesiones y los links a presentaciones y grabaciones.",
+          "fecha": "2026-03-26",
+          "fecha_texto": null,
+          "estado": "vista",
+          "avance_pct": null,
+          "etiquetas": [
+            "Repaso"
+          ],
+          "miniatura": "/recursos/portadas/ep-extra-repaso-notion.webp",
+          "notion_url": null,
+          "grabacion": {
+            "url": "https://drive.google.com/file/d/1ZHyI1JGt_3SW-tT98GtiMFSAr8VdEy1o/view",
+            "compartible": true
+          },
+          "recursos": [],
+          "quiz": null,
+          "fuentes": [
+            {
+              "etiqueta": "Notas Gemini 26 mar",
+              "url": "https://docs.google.com/document/d/1Q5BsJdbyj6LVaYw0ULd5cQ3nHwv2b1OCpIW8aIbknSU/edit?usp=drivesdk",
+              "marca_tiempo": "00:00:00",
+              "visibilidad": "interna"
+            }
+          ],
+          "publicado_en": "2026-03-26",
+          "badge_manual": null
+        }
+      ],
+      "portada": "/recursos/portadas/serie-abimato-up.webp",
+      "stills": [
+        "/recursos/portadas/stills/a48.webp",
+        "/recursos/portadas/stills/a63.webp",
+        "/recursos/portadas/stills/b05.webp",
+        "/recursos/portadas/stills/a88.webp"
+      ],
+      "hero_videos": [
+        {
+          "src": "/recursos/hero/billboard-1.mp4",
+          "poster": "/recursos/hero/billboard-1-poster.webp",
+          "origen": "generado",
+          "canva": [
+            "a48",
+            "a63",
+            "a88"
+          ]
+        },
+        {
+          "src": "/recursos/hero/billboard-2.mp4",
+          "poster": "/recursos/hero/billboard-2-poster.webp",
+          "origen": "generado",
+          "canva": [
+            "b05",
+            "b04",
+            "a26"
+          ]
+        },
+        {
+          "src": "/recursos/hero/billboard-3.mp4",
+          "poster": "/recursos/hero/billboard-3-poster.webp",
+          "origen": "generado",
+          "canva": [
+            "a60",
+            "a54",
+            "a78"
+          ]
+        }
+      ]
+    }
+  ],
+  "tu_negocio": [
+    {
+      "seccion": "web",
+      "titulo": "abimato.com.mx",
+      "url": "https://abimato.com.mx",
+      "estado": "Acceso a Shopify pendiente (SALIDA.md §D #15)",
+      "visibilidad": "cliente"
+    },
+    {
+      "seccion": "marca",
+      "titulo": "Brandbook / Manual de Marca",
+      "url": null,
+      "estado": "Por subir",
+      "visibilidad": "cliente"
+    },
+    {
+      "seccion": "marca",
+      "titulo": "Sistema de Marca (Drive)",
+      "url": "https://drive.google.com/file/d/17DNjuCn_bnug1NaEzFTyCZZYqpAo8W5w/view",
+      "estado": "Por confirmar si es el brandbook",
+      "visibilidad": "interna"
+    },
+    {
+      "seccion": "documentos",
+      "titulo": "Repositorio de documentos (Notion)",
+      "url": "https://app.notion.com/p/32fffabf5a2281318fa0f4a4d5aa675e",
+      "estado": null,
+      "visibilidad": "cliente"
+    },
+    {
+      "seccion": "documentos",
+      "titulo": "NDA y contrato",
+      "url": null,
+      "estado": "Por subir",
+      "visibilidad": "cliente"
+    }
+  ],
+  "recursos_generales": [
+    {
+      "tipo": "notion",
+      "titulo": "Seguimiento de sesiones",
+      "url": "https://app.notion.com/p/32fffabf5a2281908f14dff554f03feb",
+      "visibilidad": "cliente"
+    },
+    {
+      "tipo": "pdf",
+      "titulo": "Temario de sesiones semanales",
+      "url": "https://drive.google.com/file/d/1JCge3inTT6MPlJl_pAy-1QiWLaVFvzgQ/view",
+      "visibilidad": "cliente"
+    },
+    {
+      "tipo": "canva",
+      "titulo": "Carpeta Canva de sesiones",
+      "url": "https://www.canva.com/folder/FAHAYB1f3hY",
+      "visibilidad": "cliente"
+    },
+    {
+      "tipo": "pdf",
+      "titulo": "Clase online 1-4 (ligera)",
+      "url": "https://drive.google.com/file/d/1kKg4A4s1unDtcanBsNC9g3eQT70m3FFm/view",
+      "visibilidad": "cliente"
+    },
+    {
+      "tipo": "drive",
+      "titulo": "Carpeta Drive Abimato",
+      "url": "https://drive.google.com/drive/folders/1EI7BC8NV8fCI_tgbN0m8MECe4mmAo8Lv",
+      "visibilidad": "cliente"
+    }
+  ]
+}
