@@ -137,7 +137,11 @@
             }
           ],
           "publicado_en": "2026-01-28",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1V4e0goCpKRBNBATK8fycdJxKs6Deifhn"
+          }
         },
         {
           "slug": "s02",
@@ -188,7 +192,11 @@
             }
           ],
           "publicado_en": "2026-02-04",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1TVx-0acD602gnsPLJg_FmTS369asXGBU"
+          }
         },
         {
           "slug": "s03",
@@ -239,7 +247,8 @@
             }
           ],
           "publicado_en": "2026-02-11",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s04",
@@ -290,7 +299,8 @@
             }
           ],
           "publicado_en": "2026-02-19",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s05",
@@ -336,7 +346,11 @@
             }
           ],
           "publicado_en": "2026-02-25",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1p_H2N1uHBgtng9EcUtBirLOUQFr2DoQy"
+          }
         },
         {
           "slug": "s06",
@@ -376,7 +390,11 @@
             }
           ],
           "publicado_en": "2026-03-05",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "13XCw2EDw5l6vlxCRLYPGckgeL-PADAE1"
+          }
         },
         {
           "slug": "s07",
@@ -422,7 +440,11 @@
             }
           ],
           "publicado_en": "2026-04-02",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1LUQxZfH74ySvMnkWbAm1D1hPkojcPQCC"
+          }
         },
         {
           "slug": "s08",
@@ -442,7 +464,8 @@
           "quiz": null,
           "fuentes": [],
           "publicado_en": null,
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s09",
@@ -462,7 +485,8 @@
           "quiz": null,
           "fuentes": [],
           "publicado_en": null,
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s10",
@@ -482,7 +506,8 @@
           "quiz": null,
           "fuentes": [],
           "publicado_en": null,
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s11",
@@ -502,7 +527,8 @@
           "quiz": null,
           "fuentes": [],
           "publicado_en": null,
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "s12",
@@ -522,7 +548,8 @@
           "quiz": null,
           "fuentes": [],
           "publicado_en": null,
-          "badge_manual": null
+          "badge_manual": null,
+          "video": null
         },
         {
           "slug": "especial-maquina-comercial",
@@ -568,7 +595,11 @@
             }
           ],
           "publicado_en": "2026-04-09",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1v9v0J-afVNgYQkFBmZ3AoQR2LPbxMvRO"
+          }
         },
         {
           "slug": "extra-repaso-notion",
@@ -600,7 +631,11 @@
             }
           ],
           "publicado_en": "2026-03-26",
-          "badge_manual": null
+          "badge_manual": null,
+          "video": {
+            "tipo": "drive",
+            "id": "1ZHyI1JGt_3SW-tT98GtiMFSAr8VdEy1o"
+          }
         }
       ],
       "portada": "/yuppi-clientes/recursos/portadas/serie-abimato-up.webp",
