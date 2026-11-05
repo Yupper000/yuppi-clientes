@@ -5,8 +5,8 @@
     "estilo": "3d",
     "fila": "Mauri en 3D",
     "ranking": 1,
-    "card": "/parodias/mauri-story/card.webp",
-    "poster": "/parodias/mauri-story/poster.webp"
+    "card": "/yuppi-clientes/parodias/mauri-story/card.webp",
+    "poster": "/yuppi-clientes/parodias/mauri-story/poster.webp"
   },
   {
     "slug": "interestrategia",
@@ -14,8 +14,8 @@
     "estilo": "scifi",
     "fila": "Ciencia ficción con Mauri",
     "ranking": 2,
-    "card": "/parodias/interestrategia/card.webp",
-    "poster": "/parodias/interestrategia/poster.webp"
+    "card": "/yuppi-clientes/parodias/interestrategia/card.webp",
+    "poster": "/yuppi-clientes/parodias/interestrategia/poster.webp"
   },
   {
     "slug": "rapido-y-facturado",
@@ -23,8 +23,8 @@
     "estilo": "accion",
     "fila": "Acción con Mauri",
     "ranking": 3,
-    "card": "/parodias/rapido-y-facturado/card.webp",
-    "poster": "/parodias/rapido-y-facturado/poster.webp"
+    "card": "/yuppi-clientes/parodias/rapido-y-facturado/card.webp",
+    "poster": "/yuppi-clientes/parodias/rapido-y-facturado/poster.webp"
   },
   {
     "slug": "volver-al-funnel",
@@ -41,8 +41,8 @@
     "estilo": "animacion",
     "fila": "Mauri animado",
     "ranking": 5,
-    "card": "/parodias/ataque-al-algoritmo/card.webp",
-    "poster": "/parodias/ataque-al-algoritmo/poster.webp"
+    "card": "/yuppi-clientes/parodias/ataque-al-algoritmo/card.webp",
+    "poster": "/yuppi-clientes/parodias/ataque-al-algoritmo/poster.webp"
   },
   {
     "slug": "la-matriz-de-precios",
@@ -50,8 +50,8 @@
     "estilo": "scifi",
     "fila": "Ciencia ficción con Mauri",
     "ranking": 6,
-    "card": "/parodias/la-matriz-de-precios/card.webp",
-    "poster": "/parodias/la-matriz-de-precios/poster.webp"
+    "card": "/yuppi-clientes/parodias/la-matriz-de-precios/card.webp",
+    "poster": "/yuppi-clientes/parodias/la-matriz-de-precios/poster.webp"
   },
   {
     "slug": "john-brief",
@@ -59,8 +59,8 @@
     "estilo": "accion",
     "fila": "Acción con Mauri",
     "ranking": 7,
-    "card": "/parodias/john-brief/card.webp",
-    "poster": "/parodias/john-brief/poster.webp"
+    "card": "/yuppi-clientes/parodias/john-brief/card.webp",
+    "poster": "/yuppi-clientes/parodias/john-brief/poster.webp"
   },
   {
     "slug": "ratatuyuppi",
